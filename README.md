@@ -17,7 +17,7 @@ Pretty much a perfectionist when it comes to UI (don't use `margin` or I will fu
 - [ ] Master React and Flutter.
 
 🌱 What am I learning right now: Flutter, Dart and Java Spring Boot\
-💯 What am I the best of: React/RN, Javascript, Android XML\
+💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)
 <hr>
 
