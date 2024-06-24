@@ -11,7 +11,11 @@ Vietnamese 🇻🇳\
 Pretty much a perfectionist when it comes to UI (don't use `margin` or I will fucking kill you).\
 🎓 Education: Senior SE undergraduate @ HUFLIT\
 🇬🇧 English: IELTS 6.5 (R: 7.0, L: 7.5, W: 6.0, S: 5.0)\
-🎯 Goal: Get IELTS 7.0+ (R,L,W,S at least 7.0), get a nice and stable job, master React and Flutter.\
+🎯 Goals: 
+- [ ] Get IELTS 7.0+ (R,L,W,S at least 7.0).
+- [ ] Get a nice and stable job.
+- [ ] Master React and Flutter.
+
 🌱 What am I learning right now: Flutter, Dart and Java Spring Boot\
 💯 What am I the best of: React/RN, Javascript, Android XML\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)
