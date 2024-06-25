@@ -9,7 +9,6 @@
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
 ### A little bit about myself
 Vietnamese 🇻🇳\
-Pretty much a perfectionist when it comes to UI (don't use `margin` or I will fucking kill you).\
 🎓 Education: Senior SE undergraduate @ HUFLIT\
 🇬🇧 English: IELTS 6.5 (R: 7.0, L: 7.5, W: 6.0, S: 5.0)\
 🎯 Goals: 
