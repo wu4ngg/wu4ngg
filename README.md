@@ -8,7 +8,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)\
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
 ### A little bit about myself
-Intern @ ATS Vietnam
+Intern @ ATS Vietnam\
 Vietnamese 🇻🇳\
 🎓 Education: Senior SE undergraduate @ HUFLIT\
 🇬🇧 English: IELTS 6.5 (R: 7.0, L: 7.5, W: 6.0, S: 5.0)\
