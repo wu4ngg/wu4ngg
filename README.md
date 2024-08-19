@@ -10,7 +10,7 @@
 ### A little bit about myself
 Vietnamese 🇻🇳\
 🏢 Intern @ ATS Vietnam\
-🎓 Education: Senior SE undergraduate @ HUFLIT\
+🎓 Education: Senior SE undergraduate @ HUFLIT <sup>GPA 3.59 BTW</sup>\
 🇬🇧 English: IELTS 6.5 (R: 7.0, L: 7.5, W: 6.0, S: 5.0)\
 🎯 Goals: 
 - [ ] Get IELTS 7.0+ (R,L,W,S at least 7.0).
