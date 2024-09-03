@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)\
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
-### A little bit about myself
+### Just your average Front-end developer
 Vietnamese 🇻🇳\
 🏢 Intern @ ATS Vietnam\
 🎓 Education: Senior SE undergraduate @ HUFLIT <sup>GPA 3.59 BTW</sup>\
