@@ -17,7 +17,7 @@ Vietnamese 🇻🇳\
 - [ ] Graduate with high distinction.
 - [ ] Get a nice and stable job.
 
-🌱 What am I learning right now: Flutter, Dart and Java Spring Boot\
+🌱 What am I learning right now: AI, LLM, GPT, Azure, Docker and Python\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)
 <hr>
