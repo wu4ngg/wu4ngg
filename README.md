@@ -13,7 +13,7 @@ Vietnamese 🇻🇳\
 🎓 Education: Senior SE undergraduate @ HUFLIT <sup>GPA 3.59 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
 🎯 Goals: 
-- [x] Get IELTS 7.0+ (R,L,W,S at least 7.0).
+- [x] ~~Get IELTS 7.0+ (R,L,W,S at least 7.0).~~
 - [ ] Graduate with high distinction.
 - [ ] Get a nice and stable job.
 
