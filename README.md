@@ -17,7 +17,7 @@ Vietnamese 🇻🇳\
 - [ ] Graduate with high distinction.
 - [ ] Get a nice and stable job.
 
-🌱 What am I learning right now: AI, LLM, GPT, Azure, Docker and Python\
+🌱 What am I learning right now: AI, LLM, GPT, Azure, Docker, Linux and Python (Basically devops + AI engineering lmao)\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)\
 ❤️‍🔥 Also check out my team: [very good friends](https://fowardslash.vercel.app/#/team)
