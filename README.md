@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)\
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
-### Just your average Front-end developer
+### I think I'm gonna go Full-stack
 Vietnamese 🇻🇳\
 🏢 Intern @ ATS Vietnam\
 🎓 Education: 4th Year SE Student @ HUFLIT <sup>GPA 3.59 BTW</sup>\
@@ -16,8 +16,9 @@ Vietnamese 🇻🇳\
 - [x] ~~Get IELTS 7.0+ (R,L,W,S at least 7.0).~~
 - [ ] Graduate with high distinction.
 - [ ] Get a nice and stable job.
+- [ ] MAKE SOME FOOKING MONEY.
 
-🌱 What am I learning right now: AI, LLM, GPT, Azure, Docker, Linux and Python (Basically devops + AI engineering lmao)\
+🌱 What am I learning right now: Web scraping, Python (I'm turning multilingual)\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)\
 ❤️‍🔥 Also check out my team: [very good friends](https://fowardslash.vercel.app/#/team)
