@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
 ### I think I'm gonna go Full-stack
 Vietnamese 🇻🇳\
-🏢 Intern @ Coqnit Pte Ltd\
+🏢 Front-end Intern @ Coqnit Pte Ltd\
 🎓 Education: 4th Year SE Student @ HUFLIT <sup>GPA 3.64 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
 🎯 Goals: 
@@ -18,7 +18,7 @@ Vietnamese 🇻🇳\
 - [ ] Get a nice and stable job.
 - [ ] MAKE SOME FOOKING MONEY.
 
-🌱 What am I learning right now: Web scraping, Python (I'm turning multilingual)\
+🌱 What am I learning right now: Back-end, Python (still)\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
 🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)\
 🍱 Also have a bento: [here](https://bento.me/wuangg)\
