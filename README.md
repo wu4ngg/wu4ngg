@@ -7,7 +7,9 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)\
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
-### I think I'm gonna go Full-stack
+
+I am a passionate programmer with experiences with Javascript, Typescript and Python. One my of strengths is Front-end and UI/UX Related stuff but I can also do Back-end too. I like technology, mainly with smartphones and computer and I kinda am a perfectionist when it comes to UI design (make your icons smaller goddammit).
+### Front-end Enthusiast (but I think I'm transitioning to Full-stack)
 Vietnamese 🇻🇳 / Saigoneer 🏙️\
 🏢 Front-end Intern @ Coqnit Pte Ltd\
 🎓 Education: 4th Year SE Student @ HUFLIT <sup>GPA 3.60 BTW</sup>\
