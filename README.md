@@ -6,6 +6,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 I am a passionate programmer with experiences with Javascript, Typescript and Python. One my of strengths is Front-end and UI/UX related stuff but I can also do Back-end too. I like technology, mainly with smartphones and computer and I kinda am a perfectionist when it comes to UI design (make your icons smaller goddammit).
 
 Front-end Enthusiast (but I think I'm transitioning to Full-stack)
