@@ -12,7 +12,7 @@ I am a passionate programmer with experiences with Javascript, Typescript and Py
 ### Front-end Enthusiast (but I think I'm transitioning to Full-stack)
 Vietnamese 🇻🇳 / Saigoneer 🏙️\
 🏢 Front-end Intern @ Coqnit Pte Ltd\
-🎓 Education: 4th Year SE Student @ HUFLIT <sup>GPA 3.60 BTW</sup>\
+🎓 Education: SE Bachelor's Degree Graduate @ HUFLIT <sup>GPA 3.60 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
 🎯 Goals: 
 - [x] ~~Get IELTS 7.0+ (R,L,W,S at least 7.0).~~
