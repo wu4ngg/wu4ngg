@@ -28,4 +28,5 @@ Vietnamese 🇻🇳 / Saigoneer 🏙️\
 <hr>
 
 ### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu4ngg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
 ![Wu4ngg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu4ngg&show_icons=true&theme=default)
