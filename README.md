@@ -9,7 +9,6 @@
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
 [![wakatime](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d.svg)](https://wakatime.com/@6e7211f7-f2bb-4650-94ef-fb5e6f96343d)
 
-I am a passionate programmer with experiences with Javascript, Typescript and Python. One my of strengths is Front-end and UI/UX related stuff but I can also do Back-end too. I like technology, mainly with smartphones and computer and I kinda am a perfectionist when it comes to UI design (make your icons smaller goddammit).
 ### Front-end Enthusiast (but I think I'm transitioning to Full-stack)
 Vietnamese 🇻🇳 / Saigoneer 🏙️\
 🏢 Front-end Intern @ Coqnit Pte Ltd\
@@ -17,15 +16,13 @@ Vietnamese 🇻🇳 / Saigoneer 🏙️\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
 🎯 Goals: 
 - [x] ~~Get IELTS 7.0+ (R,L,W,S at least 7.0).~~
-- [ ] Graduate with high distinction.
+- [x] ~~Graduate with high distinction.~~
 - [ ] Get a nice and stable job.
 - [ ] MAKE SOME FOOKING MONEY.
 
 🌱 What am I learning right now: Back-end, Python (still), 日本語 (getting that sweet N5)\
 💯 What am I good at: React/RN, Javascript, Flutter/Dart\
-🌐 Go visit my website (its very cool): [here](https://fowardslash.vercel.app/#/)\
-🍱 Also have a bento: [here](https://bento.me/wuangg)\
-❤️‍🔥 Also check out my team: [very good friends](https://fowardslash.vercel.app/#/team)
+🌐 [My website (its very cool)](https://tri-quang.vercel.app/#/)
 <hr>
 
 ### Stats
