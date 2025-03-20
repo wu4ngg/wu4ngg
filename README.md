@@ -22,7 +22,7 @@
 ### Front-end Enthusiast (but I think I'm transitioning to Full-stack)
 Vietnamese 🇻🇳 / Saigoneer 🏙️
 ## Work Experience
-🏢 Full-stack Intern @ Coqnit Pte Ltd (From 12/2024)\
+🏢 Full-stack Intern @ Coqnit Pte Ltd (From 12/2024)
 ## Other details
 🎓 Education: SE Bachelor's Degree Graduate @ HUFLIT <sup>GPA 3.60 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
