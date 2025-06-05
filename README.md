@@ -20,21 +20,21 @@
 [![wakatime](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d.svg)](https://wakatime.com/@6e7211f7-f2bb-4650-94ef-fb5e6f96343d)
 
 ### Front-end Enthusiast (but I think I'm transitioning to Full-stack)
+🧑‍💻 21 year-old passonate software developer.
+
 Vietnamese 🇻🇳 / Saigoneer 🏙️
 ## Work Experience
-🏢 Full-stack Intern @ Coqnit Pte Ltd (From 12/2024)
+🏢 Fresher Software Developer @ Coqnit Pte Ltd (From 4/2025)
 ## Other details
 🎓 Education: SE Bachelor's Degree Graduate @ HUFLIT <sup>GPA 3.60 BTW</sup>\
 🇬🇧 English: IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
 🎯 Goals: 
-- [x] ~~Get IELTS 7.0+ (R,L,W,S at least 7.0).~~
-- [x] ~~Graduate with high distinction.~~
+- [ ] Achieve more with my career.
 - [ ] Get JLPT N5.
-- [ ] Get a nice and stable job.
 - [ ] MAKE SOME FOOKING MONEY.
 
-🌱 What am I learning right now: Back-end, Python (still), 日本語 (getting that sweet N5)\
-💯 What am I good at: React/RN, Javascript, Flutter/Dart\
+🌱 What am I learning right now: Containerized applications (docker, k8s), AI Tech, 日本語 (getting that sweet N5)\
+💯 What am I good at: React/RN, Typescript, Python\
 🌐 [My website (its very cool)](https://tri-quang.vercel.app/#/)
 <hr>
 
