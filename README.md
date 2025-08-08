@@ -14,7 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
 [![wakatime](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d.svg)](https://wakatime.com/@6e7211f7-f2bb-4650-94ef-fb5e6f96343d)
 
-### Front-end Enthusiast (but I think I'm transitioning to Full-stack)
+### Full-stack Developer (kind of)
 🧑‍💻 21 year-old software developer.
 
 Vietnamese 🇻🇳 / Saigoneer 🏙️
