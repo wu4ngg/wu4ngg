@@ -13,7 +13,7 @@
 [![wakatime](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d.svg)](https://wakatime.com/@6e7211f7-f2bb-4650-94ef-fb5e6f96343d)
 <sup>rio futaba my goat</sup>
 ### Full-stack Developer (kind of)
-~~Wibi rách~~
+Peak media enjoyer
 
 Vietnamese 🇻🇳 / Saigoneer 🏙️
 ## Work Experience
