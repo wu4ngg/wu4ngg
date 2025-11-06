@@ -11,13 +11,11 @@
 
 ![](https://komarev.com/ghpvc/?username=wu4ngg&color=green)
 [![wakatime](https://wakatime.com/badge/user/6e7211f7-f2bb-4650-94ef-fb5e6f96343d.svg)](https://wakatime.com/@6e7211f7-f2bb-4650-94ef-fb5e6f96343d)
-<sup>rio futaba my goat</sup>
 ### Full-stack Developer (kind of)
-Peak media enjoyer
 
 Vietnamese 🇻🇳 / Saigoneer 🏙️
 ## Work Experience
-🏢 Fresher Software Developer @ Coqnit Pte Ltd (From 12/2024)
+🏢 Junior Software Developer @ Coqnit Pte Ltd (From 12/2024)
 ## Other details
 🎓 SE Bachelor's Degree Graduate @ HUFLIT\
 🇬🇧 IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
@@ -26,7 +24,3 @@ Vietnamese 🇻🇳 / Saigoneer 🏙️
 💯 What am I good at: React/RN, Typescript, Python\
 🌐 [My website (its very cool)](https://tri-quang.vercel.app/#/)
 <hr>
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu4ngg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
-![Wu4ngg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu4ngg&show_icons=true&theme=default)
