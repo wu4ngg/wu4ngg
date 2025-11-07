@@ -19,8 +19,8 @@ Vietnamese 🇻🇳 / Saigoneer 🏙️
 ## Work Experience
 🏢 Junior Software Developer @ Coqnit Pte Ltd (From 12/2024)
 ## Other details
-🎓 SE Bachelor's Degree Graduate @ HUFLIT\
-🇬🇧 IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)\
+🎓 SE Bachelor's Degree @ HUFLIT\
+🇬🇧 IELTS 7.5 (R: 8.0, L: 8.0, W: 7.0, S: 6.5)
 
 🌱 What am I doing right now: Slaving away at a start-up + AI stuff\
 💯 What am I good at: React/RN, Typescript, Python\
