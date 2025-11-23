@@ -1,4 +1,5 @@
-<img width="1080" height="200" alt="image (3)" src="https://github.com/user-attachments/assets/46c89cab-9ffc-40e7-993e-5614bded4e1f" />
+<img src="https://github.com/user-attachments/assets/1c94a994-3643-4e9c-94c5-8c11fc4c969e" width="64" height="64" />
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
